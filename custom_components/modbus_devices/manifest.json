@@ -5,9 +5,10 @@
     "@dk-1983"
   ],
   "dependencies": [],
-  "documentation": "https://github.com/dk-1983/modbus_devices",
+  "documentation": "https://github.com/dk-1983/Modbus_Devices/tree/master",
   "integration_type": "hub",
   "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/dk-1983/Modbus_Devices/issues",
   "requirements": ["pymodbus>=3.10.0"],
   "config_flow": true,
   "version": "0.0.1"
